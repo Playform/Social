@@ -67,7 +67,7 @@ class SiteInformation:
         Return Value:
         Nicely formatted string to get information about this object.
         """
-        
+
         return f"{self.name} ({self.url_home})"
 
 
@@ -189,7 +189,7 @@ class SitesInformation:
         for site in self.sites:
             if self.sites[site].is_nsfw:
                 continue
-            sites[site] = self.sites[site]  
+            sites[site] = self.sites[site]
         self.sites =  sites
 
     def site_name_list(self):
