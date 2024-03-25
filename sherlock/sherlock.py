@@ -40,7 +40,7 @@ class SherlockFuturesSession(FuturesSession):
         time metric to each request.
 
         It is taken (almost) directly from the following Stack Overflow answer:
-        https://github.com/ross/requests-futures#working-in-the-background
+        HTTPS://GitHub.Com/ross/requests-futures#working-in-the-background
 
         Keyword Arguments:
         self                   -- This object.
@@ -660,7 +660,7 @@ def main():
         if remote_version != local_version:
             print(
                 "Update Available!\n"
-                + f"You are running version {local_version}. Version {remote_version} is available at https://github.com/sherlock-project/sherlock"
+                + f"You are running version {local_version}. Version {remote_version} is available at HTTPS://GitHub.Com/sherlock-project/sherlock"
             )
 
     except Exception as error:

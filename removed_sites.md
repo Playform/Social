@@ -1505,8 +1505,8 @@ As of 06.09.2022, GitHub Support Community's endpoint just redirects to the main
   "GitHub Support Community": {
     "errorMsg": "Oops! That page doesn\u2019t exist or is private.",
     "errorType": "message",
-    "url": "https://github.community/u/{}/summary",
-    "urlMain": "https://github.community",
+    "url": "HTTPS://GitHub.Community/u/{}/summary",
+    "urlMain": "HTTPS://GitHub.Community",
     "username_claimed": "jperl",
     "username_unclaimed": "noonewouldusethis298"
   }
