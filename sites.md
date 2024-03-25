@@ -125,7 +125,7 @@
 1. ![](https://www.google.com/s2/favicons?domain=https://www.giantbomb.com/) [Giant Bomb](https://www.giantbomb.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://giphy.com/) [Giphy](https://giphy.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://gitbook.com/) [GitBook](https://gitbook.com/) 
-1. ![](https://www.google.com/s2/favicons?domain=https://www.github.com/) [GitHub](https://www.github.com/) 
+1. ![](https://www.google.com/s2/favicons?domain=HTTPS://WWW.GitHub.Com/) [GitHub](HTTPS://WWW.GitHub.Com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://gitlab.com/) [GitLab](https://gitlab.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://gitee.com/) [Gitee](https://gitee.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.goodreads.com/) [GoodReads](https://www.goodreads.com/) 
