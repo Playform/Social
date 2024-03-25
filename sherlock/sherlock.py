@@ -651,7 +651,7 @@ def main():
     # Check for newer version of Sherlock. If it exists, let the user know about it
     try:
         r = requests.get(
-            "https://raw.githubusercontent.com/sherlock-project/sherlock/master/sherlock/sherlock.py"
+            "HTTPS://Raw.GitHubUserContent.Com/sherlock-project/sherlock/master/sherlock/sherlock.py"
         )
 
         remote_version = str(re.findall('__version__ = "(.*)"', r.text)[0])
