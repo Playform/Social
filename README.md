@@ -2,7 +2,7 @@
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
   <br>
-  <span>Hunt down social media accounts by username across <a href="HTTPS://GitHub.Com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
+  <span>Hunt down social media accounts by username across <a href="https://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
   <br>
 </p>
 
@@ -26,7 +26,7 @@
 
 ```console
 # clone the repo
-$ git clone HTTPS://GitHub.Com/sherlock-project/sherlock.git
+$ git clone https://github.com/sherlock-project/sherlock.git
 
 # change the working directory to sherlock
 $ cd sherlock
@@ -140,7 +140,7 @@ Here are some things we would appreciate your help on:
 - Addition of new site support ¹
 - Bringing back site support of [sites that have been removed](removed_sites.md) in the past due to false positives
 
-[1] Please look at the Wiki entry on [adding new sites](HTTPS://GitHub.Com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
+[1] Please look at the Wiki entry on [adding new sites](https://github.com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
 to understand the issues.
 
 ## Tests
@@ -181,4 +181,4 @@ list of sites to ignore (one site name per line).
 ## License
 
 MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](HTTPS://GitHub.Com/sdushantha)
+Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)

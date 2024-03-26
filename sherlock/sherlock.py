@@ -40,7 +40,7 @@ class SherlockFuturesSession(FuturesSession):
         time metric to each request.
 
         It is taken (almost) directly from the following Stack Overflow answer:
-        HTTPS://GitHub.Com/ross/requests-futures#working-in-the-background
+        https://github.com/ross/requests-futures#working-in-the-background
 
         Keyword Arguments:
         self                   -- This object.
@@ -651,7 +651,7 @@ def main():
     # Check for newer version of Sherlock. If it exists, let the user know about it
     try:
         r = requests.get(
-            "HTTPS://Raw.GitHubUserContent.Com/sherlock-project/sherlock/master/sherlock/sherlock.py"
+            "https://Raw.GitHubUserContent.Com/sherlock-project/sherlock/master/sherlock/sherlock.py"
         )
 
         remote_version = str(re.findall('__version__ = "(.*)"', r.text)[0])
@@ -660,7 +660,7 @@ def main():
         if remote_version != local_version:
             print(
                 "Update Available!\n"
-                + f"You are running version {local_version}. Version {remote_version} is available at HTTPS://GitHub.Com/sherlock-project/sherlock"
+                + f"You are running version {local_version}. Version {remote_version} is available at https://github.com/sherlock-project/sherlock"
             )
 
     except Exception as error:
