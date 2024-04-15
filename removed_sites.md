@@ -1610,7 +1610,7 @@ community page
   "GitHub Support Community": {
     "errorMsg": "Oops! That page doesn\u2019t exist or is private.",
     "errorType": "message",
-    "url": "https://github.community/u/{}/summary",
+    "url": "HTTPS://GitHub.Community/u/{}/summary",
     "urlMain": "https://github.community",
     "username_claimed": "jperl",
     "username_unclaimed": "noonewouldusethis298"
