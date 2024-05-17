@@ -26,7 +26,7 @@ jobs:
       matrix: ${{ fromJson(needs.getchange.outputs.matrix) }}
 
     steps:
-    - uses: actions/checkout@v4.1.5
+    - uses: actions/checkout@v4.1.6
     - name: Set up Python ${{ matrix.python }}
       uses: actions/setup-python@v5
       with:
