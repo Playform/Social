@@ -1,10 +1,9 @@
 ---
 name: Feature request
 about: Request a new functionality for Sherlock
-title: ''
+title: ""
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 <!--
@@ -17,15 +16,18 @@ assignees: ''
 -->
 
 ## Checklist
+
 <!--
 Put x into all boxes (like this [x]) once you have completed what they say.
 Make sure complete everything in the checklist.
 -->
-- [ ] I'm reporting a feature request
-- [ ] I've checked for similar feature requests including closed ones
+
+-   [ ] I'm reporting a feature request
+-   [ ] I've checked for similar feature requests including closed ones
 
 ## Description
-<!-- 
+
+<!--
 Provide a detailed description of the feature you would like Sherlock to have
 -->
 
