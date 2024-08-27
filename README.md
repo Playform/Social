@@ -21,7 +21,7 @@
 </a>
 </p>
 
-## Installation
+## 🚀 Installation
 
 ```console
 # clone the repo
@@ -34,7 +34,7 @@ $ cd sherlock
 $ python3 -m pip install -r requirements.txt
 ```
 
-## Usage
+## 🛠️ Usage
 
 ```console
 $ python3 sherlock --help
