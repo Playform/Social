@@ -27,8 +27,8 @@ Make sure complete everything in the checklist.
 
 **We are not your tech support**. If you have questions related to `pip`, `git`,
 or something that is not related to Sherlock, please ask them on
-[Stack Overflow](https://stackoverflow.com/) or
-[r/learnpython](https://www.reddit.com/r/learnpython/)
+[`Stack Overflow`](https://stackoverflow.com/) or
+[`r/learnpython`](https://www.reddit.com/r/learnpython/)
 
 ## Question
 

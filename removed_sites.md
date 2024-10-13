@@ -400,7 +400,7 @@ On 2019-04-02, Google shutdown Google Plus. While the content for some users is
 available after that point, it is going away. And, no one will be able to create
 a new account. So, there is no value is keeping it in Sherlock.
 
-Good-bye [Google Plus](https://en.wikipedia.org/wiki/Google%2B)...
+Good-bye [`Google Plus`](https://en.wikipedia.org/wiki/Google%2B)...
 
 ```json
   "Google Plus": {
@@ -1432,7 +1432,7 @@ As og 2022-05-01, Steam returns false positives
 ## Raidforums
 
 Raidforums is
-[now run by the FBI](https://twitter.com/janomine/status/1499453777648234501?s=21)
+[`now run by the FBI`](https://twitter.com/janomine/status/1499453777648234501?s=21)
 
 ```json
   "Raidforums": {
@@ -1651,7 +1651,7 @@ so we're not abl to get any proper results
 ## mastodon.technology
 
 As of 18.12.2022, mastodon.technology has no A/AAAA records and the
-[website was shut down by the owner](https://ashfurrow.com/blog/mastodon-technology-shutdown/).
+[`website was shut down by the owner`](https://ashfurrow.com/blog/mastodon-technology-shutdown/).
 
 ```json
   "mastodon.technology": {
