@@ -1332,7 +1332,7 @@ doesn't. This then of course causes false positives in Sherlock's results.
   "CapFriendly": {
     "errorMsg": "<div class=\"err show p5\">No results found</div>",
     "errorType": "message",
-    "regexCheck": "^[a-zA-z][a-zA-Z0-9_]{2,79}$",
+    "regexCheck": "^[`a-zA-z`][a-zA-Z0-9_]{2,79}$",
     "url": "https://www.capfriendly.com/users/{}",
     "urlMain": "https://www.capfriendly.com/",
     "username_claimed": "thisactuallyexists",
@@ -1857,7 +1857,7 @@ As of 2023.04.21, Ok.ru returns false positives
 ```json
   "OK": {
     "errorType": "status_code",
-    "regexCheck": "^[a-zA-Z][a-zA-Z0-9_.-]*$",
+    "regexCheck": "^[`a-zA-Z`][a-zA-Z0-9_.-]*$",
     "url": "https://ok.ru/{}",
     "urlMain": "https://ok.ru/",
     "username_claimed": "ok"
