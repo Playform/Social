@@ -191,8 +191,3 @@ line).
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
   <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
 </picture>
-
-## License
-
-MIT © Sherlock Project<br/> Original Creator -
-[`Siddharth Dushantha`](https://github.com/sdushantha)
