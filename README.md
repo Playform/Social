@@ -153,7 +153,7 @@ Here are some things we would appreciate your help on:
     positives
 
 [1] Please look at the Wiki entry on
-[`adding new sites`](HTTPS://github.com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
+[`adding new sites`](https://github.com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
 to understand the issues.
 
 ## Tests
