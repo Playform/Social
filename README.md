@@ -1,6 +1,6 @@
 <p align=center>
   <br>
-  <a href="HTTPS://sherlock-project.github.io/" target="_blank"><img src="HTTPS://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
+  <a href="HTTPS://sherlock-project.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
   <br>
   <span>Hunt down social media accounts by username across <a href="HTTPS://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
   <br>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<img width="70%" height="70%" src="HTTPS://user-images.githubusercontent.com/27065646/219638267-a5e11090-aa6e-4e77-87f7-0e95f6ad5978.png"/>
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/27065646/219638267-a5e11090-aa6e-4e77-87f7-0e95f6ad5978.png"/>
 </a>
 </p>
 
@@ -187,7 +187,7 @@ line).
 ## Star History
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="HTTPS://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="HTTPS://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
-  <img alt="Sherlock Project Star History Chart" src="HTTPS://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
+  <img alt="Sherlock Project Star History Chart" src="https://api.star-history.com/svg?repos=sherlock-project/sherlock&type=Date" />
 </picture>
