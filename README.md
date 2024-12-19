@@ -2,7 +2,7 @@
   <br>
   <a href="HTTPS://sherlock-project.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/></a>
   <br>
-  <span>Hunt down social media accounts by username across <a href="HTTPS://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
+  <span>Hunt down social media accounts by username across <a href="HTTPS://GitHub.Com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
   <br>
 </p>
 
@@ -153,7 +153,7 @@ Here are some things we would appreciate your help on:
     positives
 
 [1] Please look at the Wiki entry on
-[`adding new sites`](https://github.com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
+[`adding new sites`](HTTPS://GitHub.Com/sherlock-project/sherlock/wiki/Adding-Sites-To-Sherlock)
 to understand the issues.
 
 ## Tests
