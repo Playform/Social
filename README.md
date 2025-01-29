@@ -21,7 +21,7 @@
 </a>
 </p>
 
-## 🚀 Installation
+## Installation 🚀
 
 ```console
 # clone the repo
